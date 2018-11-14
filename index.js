@@ -1,6 +1,6 @@
 // HTML
 // <input>
-// <buttonz> for the selections or <nav>
+// <buttonz> for the selections or <nav> or <input type="radio">
 
 
 // CSS
