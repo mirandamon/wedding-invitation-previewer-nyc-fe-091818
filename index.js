@@ -5,7 +5,7 @@
 
 // CSS
 // div's height and width must be higher than the form
-// CSS grid
+// CSS grid one grid, one row for the header, 
 
 
 // JS
