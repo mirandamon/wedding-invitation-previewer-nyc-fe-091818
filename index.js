@@ -1,6 +1,6 @@
 // HTML
 // <input>
-// <buttonz> for the selections
+// <buttonz> for the selections or <nav>
 
 
 // CSS
