@@ -19,4 +19,4 @@
 // event listener for typing
 
 // 2. The styling (formal, spring, art deco)
-// 
+// onClick on button/div/whatever, the style changes for invitation
