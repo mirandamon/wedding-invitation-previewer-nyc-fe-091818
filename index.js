@@ -1,6 +1,8 @@
 // HTML
 // <input>
-// <buttonz> for the selections or <nav> or <input type="radio">
+// <buttonz> for the style selections (art deco, spring, formal) 
+// or <nav> or <input type="radio"> or
+// <div>
 // <div> for the right-hand side
 
 // CSS
@@ -10,5 +12,11 @@
 // Flexbox???
 // background-color is black or whatever
 // background-image: 
+// class or id to switch between the options
 
 // JS
+// 1. form
+// event listener for typing
+
+// 2. The styling (formal, spring, art deco)
+// 
